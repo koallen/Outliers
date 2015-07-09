@@ -1,0 +1,40 @@
+     Date.Of.Stop                                                                                       Description    
+ 05/14/2014:   791   DRIVER FAILURE TO OBEY PROPERLY PLACED TRAFFIC CONTROL DEVICE INSTRUCTIONS               : 32403  
+ 03/17/2015:   773   FAILURE TO DISPLAY REGISTRATION CARD UPON DEMAND BY POLICE OFFICER                       : 20673  
+ 05/20/2014:   768   DRIVING VEHICLE ON HIGHWAY WITH SUSPENDED REGISTRATION                                   : 17426  
+ 05/28/2014:   709   OPERATOR NOT RESTRAINED BY SEATBELT                                                      : 13321  
+ 02/11/2015:   706   FAILURE OF INDIVIDUAL DRIVING ON HIGHWAY TO DISPLAY LICENSE TO UNIFORMED POLICE ON DEMAND: 11961  
+ 05/06/2014:   706   (Other)                                                                                  :358000  
+ (Other)   :449332   NA's                                                                                     :     1  
+                              Location         Latitude        Longitude      Accident    Belts        Personal.Injury
+ IS 370 @ IS 270                  :  1087   Min.   :-77.29   Min.   :-94.61   No:453785   No :437518   No :448587     
+ W/B IS 370 @ IS 270              :   976   1st Qu.: 39.03   1st Qu.:-77.19               Yes: 16267   Yes:  5198     
+ WAYNE AVE @ DALE DR              :   758   Median : 39.07   Median :-77.09                                           
+ 10901 WESTLAKE DRIVE             :   687   Mean   : 39.07   Mean   :-77.10                                           
+ CLOPPER RD E/B @ ORCHARD HILLS DR:   663   3rd Qu.: 39.14   3rd Qu.:-77.04                                           
+ RT 28 @ BLACKBERRY DR            :   590   Max.   : 41.54   Max.   : 39.24                                           
+ (Other)                          :449024   NA's   :43068    NA's   :43068                                            
+ Property.Damage Fatal        Commercial.License HAZMAT       Commercial.Vehicle Alcohol      Work.Zone   
+ No :445192      No :453693   No :433986         No :453696   No :447279         No :452714   No :453727  
+ Yes:  8593      Yes:    92   Yes: 19799         Yes:    89   Yes:  6506         Yes:  1071   Yes:    58  
+                                                                                                          
+                                                                                                          
+                                                                                                          
+                                                                                                          
+                                                                                                          
+     State                       VehicleType          Year           Make            Model            Color      
+ MD     :397437   02 - Automobile      :381924   Min.   :   0   FORD   : 51283   4S     : 49886   BLACK  :89456  
+ VA     : 19632   05 - Light Duty Truck: 34409   1st Qu.:2000   TOYOTA : 45335   TK     : 32601   SILVER :77302  
+ DC     : 10757   28 - Other           :  9984   Median :2004   HONDA  : 44375   ACCORD : 16238   WHITE  :73127  
+ XX     :  4058   03 - Station Wagon   :  7132   Mean   :2002   NISSAN : 22577   CIVIC  : 14872   GRAY   :43514  
+ PA     :  3402   06 - Heavy Duty Truck:  7115   3rd Qu.:2008   TOYT   : 22244   CAMRY  : 13236   RED    :36657  
+ FL     :  2025   01 - Motorcycle      :  5226   Max.   :9999   (Other):267962   (Other):326915   BLUE   :33842  
+ (Other): 16474   (Other)              :  7995   NA's   :2870   NA's   :     9   NA's   :    37   (Other):99887  
+  Violation.Type   Contributed.To.Accident              Race        Gender            Driver.City    
+ Citation:239849   No :443482              ASIAN          : 24692   F:     0   SILVER SPRING:112196  
+ ESERO   : 23326   Yes: 10303              BLACK          :136275   M:453785   GAITHERSBURG : 45964  
+ SERO    :   671                           HISPANIC       :104139   U:     0   ROCKVILLE    : 36823  
+ Warning :189939                           NATIVE AMERICAN:  1082              GERMANTOWN   : 34523  
+                                           OTHER          : 22401              WASHINGTON   : 13074  
+                                           WHITE          :165196              (Other)      :211201  
+                                                                               NA's         :     4  

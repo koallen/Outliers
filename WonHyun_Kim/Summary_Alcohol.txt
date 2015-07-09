@@ -1,0 +1,48 @@
+     Date.Of.Stop 
+ 10/13/2013:  25  
+ 05/30/2012:  22  
+ 06/20/2012:  22  
+ 11/02/2013:  22  
+ 12/14/2014:  19  
+ 04/16/2012:  18  
+ (Other)   :1412  
+                                                                                            Description 
+ PERSON DRIVING MOTOR VEHICLE ON HIGHWAY OR PUBLIC USE PROPERTY ON SUSPENDED LICENSE AND PRIVILEGE:194  
+ DRIVING MOTOR VEH. WHILE LIC. SUSPENDED UNDER 26-204                                             :119  
+ DRIVING MOTOR VEH. WHILE LIC. SUSPENDED UNDER 27-103                                             :114  
+ POSSESSING SUSPENDED LIC.                                                                        : 87  
+ DRIVING MOTOR VEH. WHILE LIC. SUSPENDED UNDER 17-106                                             : 85  
+ DISPLAY SUSPENDED LIC.                                                                           : 76  
+ (Other)                                                                                          :865  
+                                  Location       Latitude       Longitude      Accident  Belts      Personal.Injury
+ RIDGE RD AND BETHESDA CHURCH RD      :  67   Min.   :38.98   Min.   :-77.57   No:1540   No :1513   No :1474       
+ WOODFIELD ROAD AND FIELDCREST ROAD   :  57   1st Qu.:39.13   1st Qu.:-77.25             Yes:  27   Yes:  66       
+ RIDGE ROAD AND BRINK ROAD            :  55   Median :39.19   Median :-77.21                                       
+ RIDGE ROAD AND SKYLARK ROAD          :  49   Mean   :39.19   Mean   :-77.20                                       
+ RIDGE ROAD AND BETHESDA CHURCH ROAD  :  43   3rd Qu.:39.27   3rd Qu.:-77.16                                       
+ FATHER HURLEY BLVD AND OBSERVATION DR:  30   Max.   :39.51   Max.   :-76.92                                       
+ (Other)                              :1239   NA's   :219     NA's   :219                                          
+ Property.Damage Fatal      Commercial.License HAZMAT     Commercial.Vehicle Alcohol    Work.Zone      State     
+ No :1430        No :1540   No :1501           No :1540   No :1531           No :   0   No :1540   MD     :1462  
+ Yes: 110        Yes:   0   Yes:  39           Yes:   0   Yes:   9           Yes:1540   Yes:   0   VA     :  30  
+                                                                                                   XX     :  25  
+                                                                                                   DC     :  18  
+                                                                                                   PA     :   5  
+                                                                                                          :   0  
+                                                                                                   (Other):   0  
+                    VehicleType        Year              Make          Model          Color      Violation.Type
+ 02 - Automobile          :1283   Min.   :1964   FORD      :235   4S      :  75   GRAY   :307   Citation:1444  
+ 05 - Light Duty Truck    : 148   1st Qu.:2000   TOYOTA    :143   CIVIC   :  64   WHITE  :256   ESERO   :   3  
+ 28 - Other               :  41   Median :2004   CHEVY     :127   ACCORD  :  54   BLUE   :209   SERO    :   2  
+ 08 - Recreational Vehicle:  25   Mean   :2003   HONDA     :115   EXPLORER:  48   BLACK  :206   Warning :  91  
+ 06 - Heavy Duty Truck    :  23   3rd Qu.:2008   DODGE     : 92   4 DOOR  :  45   SILVER :120                  
+ 03 - Station Wagon       :  12   Max.   :2014   VOLKSWAGON: 74   TK      :  43   RED    :105                  
+ (Other)                  :   8                  (Other)   :754   (Other) :1211   (Other):337                  
+ Contributed.To.Accident              Race     Gender          Driver.City 
+ No :1432                ASIAN          : 14   F: 469   GERMANTOWN   :274  
+ Yes: 108                BLACK          :393   M:1071   GAITHERSBURG :201  
+                         HISPANIC       :243   U:   0   SILVER SPRING:191  
+                         NATIVE AMERICAN:  0            DAMASCUS     :160  
+                         OTHER          : 45            CLARKSBURG   :108  
+                         WHITE          :845            MOUNT AIRY   : 61  
+                                                        (Other)      :545  
