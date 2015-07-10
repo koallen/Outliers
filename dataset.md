@@ -1,6 +1,6 @@
 ##Data Set
 
-The data set we have chosen is the traffic violation record in Maryland County
+The data set we have chosen is the traffic violation record in Montgomery County, Maryland State
 
 The URL to this data set is [here](https://db.tt/KoDN99dX)
 
